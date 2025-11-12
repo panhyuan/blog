@@ -32,8 +32,8 @@ url: 'https://aoco.tech'
 github:
   username: panhyuan             # change to your github username
 
-twitter:
-  username: panhyuan            # change to your twitter username
+# twitter:
+#   username: panhyuan            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -97,7 +97,7 @@ comments:
     issue_term:   # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: 'panhyuan/aoco.tech'              # <gh-username>/<repo>
+    repo: 'panhyuan/blog'              # <gh-username>/<repo>
     repo_id: 'R_kgDOIyxhcQ'
     category: 'General'
     category_id: 'DIC_kwDOIyxhcc4CUhya'
